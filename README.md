@@ -3,7 +3,7 @@
 
 <!-- Texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+e+Desktop;React+-+Electron+-+JavaScript;Infraestrutura+de+TI+e+Suporte;Sempre+aprendendo+algo+novo" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+e+Desktop;React+-+Electron+-+JavaScript+-+Python;Infraestrutura+de+TI+e+Suporte;Sempre+aprendendo+algo+novo" alt="Texto animado" />
 </p>
 
 <p align="center">
